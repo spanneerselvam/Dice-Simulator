@@ -36,7 +36,7 @@ while leaveprogram != "q":
         print("[          ]")
         print("[----------]")
         print()
-        print("Move Forward 2 steps.")
+        print("Move Forward 3 steps.")
         print()
         print("Enter 'q' to quit()")
         leaveprogram = input()
